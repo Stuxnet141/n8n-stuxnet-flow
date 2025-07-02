@@ -1,1 +1,7 @@
-// workflow النودات الخاصة بسحب التغريدات وترجمتها
+[
+  {
+    "name": "Sample Workflow",
+    "nodes": [],
+    "connections": {}
+  }
+]
